@@ -36,6 +36,6 @@ Figure 3: The concept of depth of field (along object plane) and depth of focus 
 Additional Resource of NPTEL Lecture (Prof. S. Sankaran, 
 Link: https://www.youtube.com/watch?v=mC0rYNlMz9Q)<br>
 <video width="320" height="240" controls>
-  <source src="exp1-sembasics.mp4" type="video/mp4">
+  <source src="images/exp1-sembasics.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video><br>Video on Basics of Scanning Electron Microscopy: Secondary Electron and BSE imaging mode

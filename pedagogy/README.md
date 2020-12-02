@@ -65,7 +65,7 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
 1.| Student will be able to - (i) learn the basic requirements for operating of SEM (ii) understand the importance of Vacuum, high voltage, filament etc.| Setting up the microscope for basic operation  | what could be the possible order of steps of SEM machine?<br>a.Loading the sample<br>b.Setting vacuum<br>c.Setting acceleration voltage<br>d.Switching on Filament<br>e.Moving the sample and selecting the Region of interest<br><b>1.a,b,c,d,e</b><br>2.e,d,c,b,a<br>3.a,b,c,e,d<br>4.a,b,e,d,e
-3.| Student will be able to learn how to perform secondary electron imaging | student will<br>Move the sample<br>Find the region of interest<br>Set the appropriate magnification<br>Optimize the brightness and contrast<br>Capture the SE image | <br> 1.In which mode phases are identified in image?<br><b>a.BSE</b><br>b.SE
+2.| Student will be able to learn how to perform secondary electron imaging | student will<br>Move the sample<br>Find the region of interest<br>Set the appropriate magnification<br>Optimize the brightness and contrast<br>Capture the SE image | <br> 1.In which mode phases are identified in image?<br><b>a.BSE</b><br>b.SE
 3.| Student will be able to capture BSE image. | student will<br>Move the sample<br>Find the region of interest<br>Set the appropriate magnification<br>Optimize the brightness and contrast<br>Capture the BSE image | <br> 1.In which mode topography and porosity is clearly identified in image?<br>a.BSE<br><b>b.SE</b>
 
 

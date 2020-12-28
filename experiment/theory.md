@@ -1,9 +1,9 @@
 <b>Basics of Electron beam interaction with matter:</b><br>
 
-<div style="float:left;">Electrons beam interaction with matter can be elicited in the Figure 1.<br> A variety of signals, such as Auger electron, secondary electron, backscattered electron, X-rays, etc can emerge back from the surface (when sample is thick), which are utilised in Scanning Electron Microscope (SEM).</div><div style="float:right;margin-right:0;"><video width="320" height="240" controls>
+Electrons beam interaction with matter can be elicited in the Figure 1.<br> A variety of signals, such as Auger electron, secondary electron, backscattered electron, X-rays,<br><div style="float:right;margin-right:0;"><video width="320" height="240" controls>
   <source src="images/exp1-sembasics.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video><br>Video on Basics of Scanning Electron Microscopy:<br> Secondary Electron and BSE imaging mode</div> On the other hand, when the sample is thin enough (or transparent to electrons), the electron beam can pass through the matter and can be utilised for imaging, and diffraction in Transmission Electron Microscope (TEM).<br>
+</video><br>Video on Basics of Scanning Electron Microscopy:<br> Secondary Electron and BSE imaging mode</div> etc can emerge back from the surface (when sample is thick), which are utilised in Scanning Electron Microscope (SEM). On the other hand, when the sample is thin enough (or transparent to electrons), the electron beam can pass through the matter and can be utilised for imaging, and diffraction in Transmission Electron Microscope (TEM).<br>
 <img src="images/img1.PNG"><br>
 Fig. 1: Summary of various signals obtained by interactions of electrons with matter in a scanning electron microscope.<br><br>
 <b>SEM Instrumentation:</b><br><br>

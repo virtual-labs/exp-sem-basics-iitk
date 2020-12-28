@@ -35,6 +35,7 @@ Figure 3: The concept of depth of field (along object plane) and depth of focus 
 <b>Note:</b> It must be mentioned that the signals (Auger electron, secondary electron, back-scattered electron, x-rays, etc) are ‘also’ arising in the bulk, but are able to come out from top-surface only from the mentioned depth. In other words, the signals generated in the bulk are attenuated (or absorbed) within the material and are NOT detectable at top-surface. Since the detector can only be kept ‘outside’ (and NOT in the bulk of material), thus, the imaging/topographic/compositional/elemental information may be obtained only from the mentioned interaction depth from top surface.<br><br>
 Additional Resource of NPTEL Lecture (Prof. S. Sankaran, 
 Link: https://www.youtube.com/watch?v=mC0rYNlMz9Q)<br>
+hfgfhghfg
 <a href="https://myscope.training/#/SEMlevel_3_1">hhh</a><br>
 <video width="320" height="240" controls>
   <source src="images/exp1-sembasics.mp4" type="video/mp4">

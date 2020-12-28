@@ -2,7 +2,7 @@
 
 2.	Start the instrument by clicking the “Power On/Off” button. 
 
-3.	Select one the "available material" tab in simulator and drag and drop the material in the marked region (on the bottom portion below the scanner). Once the sample is appropriately placed, you will be ready to go to next step. 
+3.	Select one the "available material" tab in simulator and drag and drop the material in the marked region (on the bottom portion below the scanner). There are 4 materials available namely "Metal", "Powder","Hair" and "Ceramic Sample". Once the sample is appropriately placed, you will be ready to go to next step. 
 
 4.	After placing the material, set the vacuum to the required range. Note that vacuum level of ~ 10-5 torr is needed for the instrument to get started. Lower vacuum level will lead to scattering of electron beam, and image will be poor.
 

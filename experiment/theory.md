@@ -6,6 +6,7 @@
   Your browser does not support the video tag.
 </video><br>Video on Basics of Scanning Electron Microscopy:<br> Secondary Electron and BSE imaging mode</div>
 </div>
+<div style ="text-align: justify;text-justify: inter-word;">
 <img src="images/img1.PNG"><br>
 Fig. 1: Summary of various signals obtained by interactions of electrons with matter in a scanning electron microscope.<br><br>
 <b>SEM Instrumentation:</b><br><br>
@@ -41,5 +42,5 @@ Figure 3: The concept of depth of field (along object plane) and depth of focus 
 
 Additional Resource of NPTEL Lecture (Prof. S. Sankaran, 
 Link: https://youtu.be/mC0rYNlMz9Q) <br>
-Myscope Training SEM Lab https://myscope.training/#/SEMlevel_3_1<br>
+Myscope Training SEM Lab https://myscope.training/#/SEMlevel_3_1<br></div>
 

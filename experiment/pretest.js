@@ -90,7 +90,7 @@
 
   const myQuestions = [
     {
-      question: "1.The typical vacuum level in SEM is",  ///// Write the question inside double quotes
+      question: "1. The typical vacuum level in SEM is",  ///// Write the question inside double quotes
       answers: {
         a: "760 torr",                  ///// Write the option 1 inside double quotes
         b: "1 torr",                  ///// Write the option 2 inside double quotes
@@ -101,7 +101,7 @@
     },
 
     {
-     question: "2.Which filament is conventionally used for thermionic emission?",  ///// Write the question inside double quotes
+     question: "2. Which filament is conventionally used for thermionic emission?",  ///// Write the question inside double quotes
       answers: {
         a: "Pt",                  ///// Write the option 1 inside double quotes
         b: "Pt-Ir",                  ///// Write the option 2 inside double quotes
@@ -113,7 +113,7 @@
     									                  ///// this line
 
 {
-     question: "3.What is the typical accelerating voltage used in SEM for imaging conducting or gold-coated materials?",  ///// Write the question inside double quotes
+     question: "3. What is the typical accelerating voltage used in SEM for imaging conducting or gold-coated materials?",  ///// Write the question inside double quotes
       answers: {
         a: "220 V",                  ///// Write the option 1 inside double quotes
         b: "440 V",                  ///// Write the option 2 inside double quotes
@@ -124,7 +124,7 @@
     },
     
     {
-     question: "4.Which signal will be obtained here:(top ~1 nm)<img src='images/q1.PNG'>",  ///// Write the question inside double quotes
+     question: "4. Which signal will be obtained here:(top ~1 nm)<img src='images/q1.PNG'>",  ///// Write the question inside double quotes
       answers: {
         a: "Auger electron",                  ///// Write the option 1 inside double quotes
         b: "Secondary Electron",                  ///// Write the option 2 inside double quotes
@@ -135,7 +135,7 @@
     },
     
     {
-     question: "5.Which signal will be obtained here (top 2-50 nm region)?<img src='images/q2.PNG'>",  ///// Write the question inside double quotes
+     question: "5. Which signal will be obtained here (top 2-50 nm region)?<img src='images/q2.PNG'>",  ///// Write the question inside double quotes
       answers: {
         a: "Auger electron",                  ///// Write the option 1 inside double quotes
         b: "Secondary Electron",                  ///// Write the option 2 inside double quotes
@@ -145,7 +145,7 @@
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
     {
-     question: "6.Which signal will be obtained here (up to top 0.5 – 1.0 µm region)?<img src='images/q3.PNG'>",  ///// Write the question inside double quotes
+     question: "6. Which signal will be obtained here (up to top 0.5 – 1.0 µm region)?<img src='images/q3.PNG'>",  ///// Write the question inside double quotes
       answers: {
         a: "Auger electron",                  ///// Write the option 1 inside double quotes
         b: "Secondary Electron",                  ///// Write the option 2 inside double quotes

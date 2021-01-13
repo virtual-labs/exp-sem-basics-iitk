@@ -1,12 +1,27 @@
 <b>Basics of Electron beam interaction with matter:</b><br>
 
-Electrons beam interaction with matter can be elicited in the Figure 1. A variety of signals, such as Auger electron, secondary electron, backscattered electron, X-rays, etc can emerge back from the surface (when sample is thick), which are utilised in Scanning Electron Microscope (SEM). On the other hand, when the sample is thin enough (or transparent to electrons), the electron beam can pass through the matter and can be utilised for imaging, and diffraction in Transmission Electron Microscope (TEM).<br>
+<div><div style="float:left;width:55%;text-align: justify;text-justify: inter-word; margin-right:40px;">Electrons beam interaction with matter can be elicited in the Figure 1. A variety of signals, such as Auger electron, secondary electron, backscattered electron, X-rays, etc can emerge back from the surface (when sample is thick), which are utilised in Scanning Electron Microscope (SEM). On the other hand, when the sample is thin enough (or transparent to electrons), the electron beam can pass through the matter and can be utilised for imaging, and diffraction in Transmission Electron Microscope (TEM).</div>
+
+<!-- <div style="float:left;width:40%;border: solid 1 px black;">
+<video width="320" height="240" controls>
+<source src="images/exp1-sembasics.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video><br>Video on Basics of Scanning Electron Microscopy:<br> Secondary Electron and BSE imaging mode</div>
+</div> -->
+<div style="float:left;width:40%;border: solid 1 px black;">
+<video width="320" height="240" controls>
+  <source src="images/exp1-sembasics.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video><br>Video on Basics of Scanning Electron Microscopy:<br> Secondary Electron and BSE imaging mode</div>
+ </div>
+<div style="content: '.';clear: both;display: block;height: 0;visibility: hidden;"></div>
+<div style ="text-align: justify;text-justify: inter-word;">
 <img src="images/img1.PNG"><br>
 Fig. 1: Summary of various signals obtained by interactions of electrons with matter in a scanning electron microscope.<br><br>
 <b>SEM Instrumentation:</b><br><br>
 Scanning electron microscope (SEM) is an instrument which utilises electrons for obtaining topographical images (using both secondary and backscattered electrons) and compositional contrast (using backscattered electron imaging). Micrographs obtained using secondary electron is sharper and possesses higher resolution that that of images obtained via backscattered electron. SEM can also be utilised to obtain elemental mapping using the emanated characteristic x-rays, or obtain texture in material using the electron back-scatter diffraction.<br><br>
 The schematic of SEM is presented in Fig. 2.It can be witnessed that electron gun generates electron beam, which, then passes through anode-aperture. There is blanking arrangement of beam (i.e. beam stopper) to minimize sample damage. The beam is passed through condenser lens, where the divergence of incident beam is controlled by magnetic field. The objective lens then scans the sample (point by point) and the arising signals are collected for each point at secondary electron detector (for obtaining the sample topography) or back-scattered electron detector (for obtaining compositional contrast image). The scan generator controls the scan coils that allow manipulation of the scanning of the required area and also deciding the magnification of the generated image. The point by point scanning allows the detection of information through the detectors. It may be noted that the screen size is fixed, so scanning of small area of sample results higher magnification, whereas scanning of large area of sample results lower magnification. The presence of x-ray detector may also be noted in Fig. 2, which is utilised for detecting the characteristic x-ray of the elements present in the sample for elemental analysis. The role of vacuum, filament, spot size and voltage are presented in the following section:<br>
-<img src="images/exp1.PNG">
+<img src="images/exp1.PNG"><br>
 Fig. 2: Schematic of scanning electron microscope eliciting the incidence of electrons through various electromagnetic lenses, followed by scanning the sample surface and collecting the signals (secondary electrons or backscattered electrons) to generate the final image.<br><br> 
 <b>Importance of Vacuum, Filament, Spot Size and High Voltage:</b><br><br>
 <b>Vacuum:</b><br>
@@ -33,9 +48,8 @@ Depth of focus involves square of magnification (M), and this value runs in orde
 <img src="images/depth.PNG"><br>
 Figure 3: The concept of depth of field (along object plane) and depth of focus (along image plane). Note that the depth-of-field is to the tune of <sup>~</sup>&micro;m, whereas the depth of focus can be as high as order of <sup>~</sup>km.<br><br>
 <b>Note:</b> It must be mentioned that the signals (Auger electron, secondary electron, back-scattered electron, x-rays, etc) are ‘also’ arising in the bulk, but are able to come out from top-surface only from the mentioned depth. In other words, the signals generated in the bulk are attenuated (or absorbed) within the material and are NOT detectable at top-surface. Since the detector can only be kept ‘outside’ (and NOT in the bulk of material), thus, the imaging/topographic/compositional/elemental information may be obtained only from the mentioned interaction depth from top surface.<br><br>
+
 Additional Resource of NPTEL Lecture (Prof. S. Sankaran, 
-Link: https://www.youtube.com/watch?v=mC0rYNlMz9Q)<br>
-<video width="320" height="240" controls>
-  <source src="images/exp1-sembasics.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video><br>Video on Basics of Scanning Electron Microscopy: Secondary Electron and BSE imaging mode
+Link: https://youtu.be/mC0rYNlMz9Q) <br>
+Myscope Training SEM Lab https://myscope.training/#/SEMlevel_3_1<br></div>
+

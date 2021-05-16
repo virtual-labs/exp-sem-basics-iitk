@@ -1,0 +1,55 @@
+[{
+	"question": "1. The typical vacuum level in SEM is",
+	"answers": {
+		"a": "760 torr",
+		"b": "1 torr",
+		"c": "10<sup>-2</sup> -10<sup>-3</sup> torr",
+		"d": "10<sup>-5</sup>-10<sup>-6</sup> torr"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "2. Which filament is conventionally used for thermionic emission?",
+	"answers": {
+		"a": "Pt",
+		"b": "Pt-Ir",
+		"c": "W",
+		"d": "ZrO<sub>2</sub>"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "3. What is the typical accelerating voltage used in SEM for imaging conducting or gold-coated materials?",
+	"answers": {
+		"a": "220 V",
+		"b": "440 V",
+		"c": "5 kV",
+		"d": "20 kV"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "4. Which signal will be obtained here:(top ~1 nm)<img src='images/q1.PNG'>",
+	"answers": {
+		"a": "Auger electron",
+		"b": "Secondary Electron",
+		"c": "Backscattered electron",
+		"d": "X-rays"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "5. Which signal will be obtained here (top 2-50 nm region)?<img src='images/q2.PNG'>",
+	"answers": {
+		"a": "Auger electron",
+		"b": "Secondary Electron",
+		"c": "Backscattered electron",
+		"d": "X-rays"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "6. Which signal will be obtained here (up to top 0.5 – 1.0 µm region)?<img src='images/q3.PNG'>",
+	"answers": {
+		"a": "Auger electron",
+		"b": "Secondary Electron",
+		"c": "Backscattered electron",
+		"d": "X-rays"
+	},
+	"correctAnswer": "c"
+}]

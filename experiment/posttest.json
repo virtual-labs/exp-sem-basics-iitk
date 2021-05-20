@@ -1,0 +1,74 @@
+[{
+	"question": "1)\tWhich signals arise from top 1 nm of the sample?",
+	"answers": {
+		"a": "Auger electron",
+		"b": "Secondary Electron",
+		"c": "Backscattered electron",
+		"d": "X-rays"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "2)\tWhich signals arise from top 5-10 nm of the sample?",
+	"answers": {
+		"a": "Auger electron",
+		"b": "Secondary Electron",
+		"c": "Backscattered electron",
+		"d": "X-rays"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "3)\tWhich signals arise from top 0.5-1 µm of the sample?",
+	"answers": {
+		"a": "Auger electron",
+		"b": "Secondary Electron",
+		"c": "Backscattered electron",
+		"d": "X-rays"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "4)\tSecondary electron is ______________________ electron.",
+	"answers": {
+		"a": "elastically  scattered",
+		"b": "inelastically scattered"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "5) Backscattered electron is ______________________ electron",
+	"answers": {
+		"a": "elastically  scattered",
+		"b": "inelastically scattered"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "6)\tThe typical vacuum level in SEM is",
+	"answers": {
+		"a": "760 torr",
+		"b": "1 torr",
+		"c": "10<sup>-2</sup> - 10<sup>-3</sup> torr",
+		"d": "10<sup>-5</sup> - 10<sup>-6</sup> torr"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "7)\tWhat could be the possible order of steps of SEM machine? <br>a.Start beam<br>  b.Obtaining required vacuum<br>  c.Switching on the Filament<br>  d.Loading the sample ",
+	"answers": {
+		"a": "d, b, c, a",
+		"b": "d, c, b, a",
+		"c": "a, b, c, d",
+		"d": "a, c, b, d"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "8) In which mode the following image is taken, where the phases are identified?<img src ='images/sem_bse_img.PNG'>",
+	"answers": {
+		"a": "BSE",
+		"b": "SE"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "9) In which mode the following image is taken, where the topographic features are clearly identified?<img src ='images/sem_se_img.PNG'>",
+	"answers": {
+		"a": "BSE",
+		"b": "SE"
+	},
+	"correctAnswer": "b"
+}]

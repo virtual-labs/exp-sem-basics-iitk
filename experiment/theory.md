@@ -31,7 +31,7 @@ As noted, if multiple features are required to be kept in focus (i.e. eyes and l
 <img src="images/eq2.PNG"><br>
 Depth of focus involves square of magnification (M), and this value runs in order of kilometres. This quantity becomes important when the images is projected on the screen, whereas the capturing (using digital camera) can be placed approximately 1 m below the imaging screen.<br>
 <img src="images/depth.PNG"><br>
-Figure 3: The concept of depth of field (along object plane) and depth of focus (along image plane). Note that the depth-of-field is to the tune of <sup>~</sup>&micro;m, whereas the depth of focus can be as high as order of <sup>~</sup>km.<br><br>
+Figure 3: The concept of depth of field (along object plane) and depth of focus (along image plane). Note that the depth-of-field is to the tune of ~ &micro;m, whereas the depth of focus can be as high as order of ~ km.<br><br>
 <b>Note:</b> It must be mentioned that the signals (Auger electron, secondary electron, back-scattered electron, x-rays, etc) are ‘also’ arising in the bulk, but are able to come out from top-surface only from the mentioned depth. In other words, the signals generated in the bulk are attenuated (or absorbed) within the material and are NOT detectable at top-surface. Since the detector can only be kept ‘outside’ (and NOT in the bulk of material), thus, the imaging/topographic/compositional/elemental information may be obtained only from the mentioned interaction depth from top surface.<br><br>
 Additional Resource of NPTEL Lecture (Prof. S. Sankaran, 
 Link: https://www.youtube.com/watch?v=mC0rYNlMz9Q)<br>
